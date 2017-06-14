@@ -3,8 +3,9 @@
 
 # Curso a docentes del ITT intersemestral 2017
 ----
-# Kanban del curso
+# KANBAN DEL CURSO
 ![](https://lh3.googleusercontent.com/yLMrKx_iB-4i7H3WNuxH6J06_r3nonGNVrtX3Ry-jjEjJycINIdE4zoTMCSp92xRsrvtPHSVhr8Ilfjkq-GZczNC54_lu-NPc4ITPH3zagl2WHAWVEXyAXp3wkg8ZuqDY1JUFfxD)
+
 https://github.com/tectijuana/impresion3d/projects/1
 
 # Introducción
